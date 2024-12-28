@@ -1,4 +1,4 @@
-# Image Classification Project
+# Intelligent Image Classifier: Precision Recognition with Deep Learning
 
 ## Overview
 
